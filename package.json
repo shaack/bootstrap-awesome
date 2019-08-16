@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 starter project with font-awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaack.com",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/bootstrap-awesome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shaack/bootstrap-awesome/issues"
+  },
+  "homepage": "https://github.com/shaack/bootstrap-awesome#readme"
+}

@@ -1,0 +1,9 @@
+@import "fonts";
+@import "bs-pre-variables"; // variables to configure bootstraps rendering
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "bs-post-variables"; // additional variables
+@import "bs-adjustments"; // overwriting bootstrap classes
+@import "html";
+@import "header";
+@import "main";
+@import "footer";
