@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bootstrap 4 starter project with font-awesome",
   "main": "index.js",
   "scripts": {
